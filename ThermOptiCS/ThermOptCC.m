@@ -3,7 +3,7 @@ function [a,TICs,Dir,modModel,TIC_Rxns] = ThermOptCC(model,tol,TICs,Dir)
 % reactions in the input model
 %
 % USAGE: 
-%   [a,TICs,Dir] = ThermOptiCC(model,tol)
+%   [a,TICs,Dir] = ThermOptCC(model,tol)
 %
 % INPUTS:
 %     model:     COBRA model structure for which thermodynamic feasibility
