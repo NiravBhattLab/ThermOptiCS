@@ -7,7 +7,7 @@ Authors: Pavan Kumar S and Nirav P Bhatt
 </p>
 
 **PaperThermOptiCS**
-Codes required to recreate all the results and figures used in the paper
+Codes required to recreate all the results and figures shown in the article
 
 **ThermOptiCS**
 Matlab codes of the algorithms developed in this work
