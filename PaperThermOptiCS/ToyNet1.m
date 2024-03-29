@@ -11,4 +11,4 @@ ubs = [10,10,10,10,10,0,10,10,10,10,10,10];
 
 model = createModel(R,R,Rform,'lowerBoundList',lbs,'upperBoundList',ubs);
 
-[TICs,Direction,TIC_Rxns,modModel,opt] = ThermoOptEnumMILP(model);
+[TICs,Direction,TIC_Rxns,modModel,opt] = ThermOptEnumMILP(model);
