@@ -2,7 +2,7 @@ function [TICs, Direction, TIC_Rxns,modModel] = ThermOptEnumLP(model)
 % Enumerates all the Thermodynamically infeasible cycles in a given model
 %
 % USAGE: 
-%   [TICs,Direction,TIC_Rxns,modModel] = ThermoOptEnumLP(model)
+%   [TICs,Direction,TIC_Rxns,modModel] = ThermOptEnumLP(model)
 %
 % INPUTS:
 %     model:     COBRA model structure for which TICs has be found
